@@ -1,0 +1,131 @@
+{
+    "restaurantes": [
+      {
+        "nombre": "Café del Mar",
+        "ubicacion": "Calle del Mar, 15, Barcelona, España",
+        "imagen": "https://images.homify.com/v1580229292/p/photo/image/3330479/IMG_8162.jpg",
+        "categorias": ["café", "italian"]
+      },
+      {
+        "nombre": "Café de la Plaza",
+        "ubicacion": "Plaza Mayor, 5, Madrid, España",
+        "imagen": "https://i0.wp.com/foodandpleasure.com/wp-content/uploads/2023/02/cafeterias-en-bosques-de-las-lomas-coffee-nails-2.jpg?fit=1280%2C1280&ssl=1",
+        "categorias": ["café"]
+      },
+      {
+        "nombre": "Bistro Espresso",
+        "ubicacion": "Calle Nueva, 20, Valencia, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMcGS1s1LcvMMwm-bmcOUuIMPcjgAK3vy9g&s",
+        "categorias": ["café"]
+      },
+      {
+        "nombre": "Café Latte",
+        "ubicacion": "Avenida del Sol, 13, Sevilla, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCZyiyHVjN5A-w-gByxoiBDGu_xWzi5JcLQ&s",
+        "categorias": ["café", "vegetarian"]
+      },
+      {
+        "nombre": "The Italian Corner",
+        "ubicacion": "Viale Italia, 12, Roma, Italia",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNOz8-q99OOIphLS94sKWw48sF66P-rdT0g&s",
+        "categorias": ["italian"]
+      },
+      {
+        "nombre": "Pasticceria Dolce Vita",
+        "ubicacion": "Via Dolci, 9, Florencia, Italia",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0BkXkORhl2abwQuqEA8ObFsLUW9GXI8jk8Q8opziSh2a7jiJRwUEJfQ&s",
+        "categorias": ["bakery", "italian"]
+      },
+      {
+        "nombre": "La Trattoria",
+        "ubicacion": "Via Roma, 24, Roma, Italia",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAc9jaXFYVPpTKgGSF8H7iLnr5SDmCUyTorw&s",
+        "categorias": ["italian"]
+      },
+      {
+        "nombre": "La Dolce Bakery",
+        "ubicacion": "Calle Pastelería, 10, Madrid, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWNi8USaRTijVrd8ziYsbhOUjEj31r3wsYg&s",
+        "categorias": ["bakery"]
+      },
+      {
+        "nombre": "Panadería La Estrella",
+        "ubicacion": "Calle de los Panaderos, 7, Zaragoza, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhV45kQ12VKh3pjH1ITWZ2LRcH-l_ce75BwA&s",
+        "categorias": ["bakery", "vegetarian"]
+      },
+      {
+        "nombre": "Baked & Fresh",
+        "ubicacion": "Avenida del Horno, 3, Málaga, España",
+        "imagen": "https://example.com/images/baked_fresh.jpg",
+        "categorias": ["bakery", "dietetica"]
+      },
+      {
+        "nombre": "Green Bowl",
+        "ubicacion": "Calle Verde, 22, Valencia, España",
+        "imagen": "https://example.com/images/green_bowl.jpg",
+        "categorias": ["vegetarian", "dietetica"]
+      },
+      {
+        "nombre": "Fit Food Café",
+        "ubicacion": "Calle Salud, 10, Sevilla, España",
+        "imagen": "https://example.com/images/fit_food_cafe.jpg",
+        "categorias": ["café", "dietetica"]
+      },
+      {
+        "nombre": "Veggie Corner",
+        "ubicacion": "Calle Vegana, 5, Barcelona, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNOz8-q99OOIphLS94sKWw48sF66P-rdT0g&s",
+        "categorias": ["vegetarian"]
+      },
+      {
+        "nombre": "Healthy Bites",
+        "ubicacion": "Avenida Salud, 14, Madrid, España",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGx_eB6yllUY45u19e_sSRRdIg2jdbm-nJw&s",
+        "categorias": ["vegetarian", "dietetica"]
+      },
+      {
+        "nombre": "El Jardín Vegano",
+        "ubicacion": "Calle Orgánica, 8, Valencia, España",
+        "imagen": "https://example.com/images/el_jardin_vegano.jpg",
+        "categorias": ["vegetarian"]
+      },
+      {
+        "nombre": "Café Naturale",
+        "ubicacion": "Calle Naturaleza, 5, Zaragoza, España",
+        "imagen": "https://example.com/images/cafe_naturale.jpg",
+        "categorias": ["café", "vegetarian"]
+      },
+      {
+        "nombre": "La Pizza Verde",
+        "ubicacion": "Calle Roma, 14, Nápoles, Italia",
+        "imagen": "https://example.com/images/la_pizza_verde.jpg",
+        "categorias": ["italian", "vegetarian"]
+      },
+      {
+        "nombre": "Dieta Café",
+        "ubicacion": "Avenida de la Salud, 2, Barcelona, España",
+        "imagen": "https://example.com/images/dieta_cafe.jpg",
+        "categorias": ["café", "dietetica"]
+      },
+      {
+        "nombre": "Pasta Verde",
+        "ubicacion": "Calle del Pasta, 5, Florencia, Italia",
+        "imagen": "https://example.com/images/pasta_verde.jpg",
+        "categorias": ["italian", "vegetarian"]
+      },
+      {
+        "nombre": "Vegan Bakery",
+        "ubicacion": "Avenida Vegana, 12, Madrid, España",
+        "imagen": "https://example.com/images/vegan_bakery.jpg",
+        "categorias": ["bakery", "vegetarian"]
+      },
+      {
+        "nombre": "Mediterranean Fit",
+        "ubicacion": "Calle Mediterráneo, 4, Málaga, España",
+        "imagen": "https://example.com/images/mediterranean_fit.jpg",
+        "categorias": ["italian", "dietetica"]
+      }
+    ]
+  }
+  
